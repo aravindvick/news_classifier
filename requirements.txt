@@ -1,0 +1,7 @@
+
+feedparser
+langchain
+langchain_community
+langchain_groq
+gtts
+requests
