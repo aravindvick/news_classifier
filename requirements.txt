@@ -7,3 +7,5 @@ gtts
 requests
 
 flask
+
+newspaper3k
